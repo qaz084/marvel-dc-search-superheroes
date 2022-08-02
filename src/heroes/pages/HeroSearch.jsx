@@ -31,7 +31,7 @@ export const HeroSearch = () => {
        {/* <h1>Search</h1>
        <hr /> */}
        <div className="col ">
-       <img className="mt-4 " src="assets/heroes/logologin.png" alt="Logo Marvel-DC" style={{width:200}}/>
+       <img className="mt-4 " src="../../assets/heroes/logologin.png" alt="Logo Marvel-DC" style={{width:200}}/>
          <div className="col-5 mt-5">
           <h4>
             Search:
